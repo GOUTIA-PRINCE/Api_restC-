@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|d:\\etudes\\licence\\semestre 1\\c#\\projet\\api_rest\\api_rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|solutionrelative:api_rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|d:\\etudes\\licence\\semestre 1\\c#\\projet\\api_rest\\api_rest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|solutionrelative:api_rest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|d:\\etudes\\licence\\semestre 1\\c#\\projet\\api_rest\\api_rest\\repositories\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|solutionrelative:api_rest\\repositories\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|d:\\etudes\\licence\\semestre 1\\c#\\projet\\api_rest\\api_rest\\services\\userserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|solutionrelative:api_rest\\services\\userserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|d:\\etudes\\licence\\semestre 1\\c#\\projet\\api_rest\\api_rest\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|solutionrelative:api_rest\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|d:\\etudes\\licence\\semestre 1\\c#\\projet\\api_rest\\api_rest\\routing\\httpdeleteattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|solutionrelative:api_rest\\routing\\httpdeleteattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|d:\\etudes\\licence\\semestre 1\\c#\\projet\\api_rest\\api_rest\\routing\\httpgetattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|solutionrelative:api_rest\\routing\\httpgetattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|d:\\etudes\\licence\\semestre 1\\c#\\projet\\api_rest\\api_rest\\routing\\httppostattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|solutionrelative:api_rest\\routing\\httppostattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|d:\\etudes\\licence\\semestre 1\\c#\\projet\\api_rest\\api_rest\\routing\\httpputattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|solutionrelative:api_rest\\routing\\httpputattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|d:\\etudes\\licence\\semestre 1\\c#\\projet\\api_rest\\api_rest\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|solutionrelative:api_rest\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|d:\\etudes\\licence\\semestre 1\\c#\\projet\\api_rest\\api_rest\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|solutionrelative:api_rest\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|d:\\etudes\\licence\\semestre 1\\c#\\projet\\api_rest\\api_rest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314FC671-1A32-4658-936A-8F838B401B36}|API_Rest\\API_Rest.csproj|solutionrelative:api_rest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 133,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\Program.cs",
+              "RelativeDocumentMoniker": "API_Rest\\Program.cs",
+              "ToolTip": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\Program.cs",
+              "RelativeToolTip": "API_Rest\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:33:08.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\data\\DbContext.cs",
+              "RelativeDocumentMoniker": "API_Rest\\data\\DbContext.cs",
+              "ToolTip": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\data\\DbContext.cs",
+              "RelativeToolTip": "API_Rest\\data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:39:33.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API_Rest\\controllers\\UserController.cs",
+              "ToolTip": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\controllers\\UserController.cs",
+              "RelativeToolTip": "API_Rest\\controllers\\UserController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:12:59.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserServiceImpl.cs",
+              "DocumentMoniker": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\services\\UserServiceImpl.cs",
+              "RelativeDocumentMoniker": "API_Rest\\services\\UserServiceImpl.cs",
+              "ToolTip": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\services\\UserServiceImpl.cs",
+              "RelativeToolTip": "API_Rest\\services\\UserServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:58:52.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HttpPutAttribute.cs",
+              "DocumentMoniker": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\Routing\\HttpPutAttribute.cs",
+              "RelativeDocumentMoniker": "API_Rest\\Routing\\HttpPutAttribute.cs",
+              "ToolTip": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\Routing\\HttpPutAttribute.cs",
+              "RelativeToolTip": "API_Rest\\Routing\\HttpPutAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:48:26.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepositoryImpl.cs",
+              "DocumentMoniker": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\repositories\\UserRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "API_Rest\\repositories\\UserRepositoryImpl.cs",
+              "ToolTip": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\repositories\\UserRepositoryImpl.cs",
+              "RelativeToolTip": "API_Rest\\repositories\\UserRepositoryImpl.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T10:05:24.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HttpGetAttribute.cs",
+              "DocumentMoniker": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\Routing\\HttpGetAttribute.cs",
+              "RelativeDocumentMoniker": "API_Rest\\Routing\\HttpGetAttribute.cs",
+              "ToolTip": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\Routing\\HttpGetAttribute.cs",
+              "RelativeToolTip": "API_Rest\\Routing\\HttpGetAttribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:42:35.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HttpPostAttribute.cs",
+              "DocumentMoniker": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\Routing\\HttpPostAttribute.cs",
+              "RelativeDocumentMoniker": "API_Rest\\Routing\\HttpPostAttribute.cs",
+              "ToolTip": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\Routing\\HttpPostAttribute.cs",
+              "RelativeToolTip": "API_Rest\\Routing\\HttpPostAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:46:41.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HttpDeleteAttribute.cs",
+              "DocumentMoniker": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\Routing\\HttpDeleteAttribute.cs",
+              "RelativeDocumentMoniker": "API_Rest\\Routing\\HttpDeleteAttribute.cs",
+              "ToolTip": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\Routing\\HttpDeleteAttribute.cs",
+              "RelativeToolTip": "API_Rest\\Routing\\HttpDeleteAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:49:29.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\services\\UserService.cs",
+              "RelativeDocumentMoniker": "API_Rest\\services\\UserService.cs",
+              "ToolTip": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\services\\UserService.cs",
+              "RelativeToolTip": "API_Rest\\services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:55:06.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "API_Rest\\repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\repositories\\UserRepository.cs",
+              "RelativeToolTip": "API_Rest\\repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T10:00:41.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\models\\User.cs",
+              "RelativeDocumentMoniker": "API_Rest\\models\\User.cs",
+              "ToolTip": "D:\\Etudes\\licence\\semestre 1\\C#\\projet\\API_Rest\\API_Rest\\models\\User.cs",
+              "RelativeToolTip": "API_Rest\\models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:28:49.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
