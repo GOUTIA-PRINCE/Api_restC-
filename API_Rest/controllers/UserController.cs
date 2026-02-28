@@ -69,7 +69,7 @@ namespace API_Rest.controllers
     
         return JsonSerializer.Serialize(new
         {
-            message = "Enseignant supprimé",
+            message = "utilisateur  supprimé",
             id = id
         });
     }
