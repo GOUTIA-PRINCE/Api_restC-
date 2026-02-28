@@ -62,5 +62,16 @@ namespace API_Rest.controllers
             // Retourner l'utilisateur mis à jour
             return JsonSerializer.Serialize(user);
         }
+        [HttpDelete("/api/users/{id}")]
+    public string DeleteUser(int id)
+    {
+        userService.DeleteUser(id);
+    
+        return JsonSerializer.Serialize(new
+        {
+            message = "Enseignant supprimé",
+            id = id
+        });
+    }
     }
 }
